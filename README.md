@@ -65,3 +65,6 @@
             sudo chown root:docker /var/run/docker.sock
 
                             
+# When using COPY with more than one source file, the destination must be a directory and end with a
+
+
